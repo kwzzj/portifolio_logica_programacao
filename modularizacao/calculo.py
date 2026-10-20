@@ -1,0 +1,14 @@
+import os
+os.system('cls')
+
+def soma(n1,n2):
+    print(n1+n2)
+
+def sub(n1,n2):
+    print(n1-n2)
+
+def mult(n1,n2):
+    print(n1*n2)
+
+def div(n1,n2):
+    print(n1/n2)
